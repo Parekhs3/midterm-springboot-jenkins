@@ -1,6 +1,8 @@
 # Midterm Spring Boot Jenkins Project
 
-This project is a simple Spring Boot application integrated with Jenkins for CI/CD automation.
+This is my midterm project where I set up a Spring Boot application and connected it to Jenkins for automated builds using a GitHub webhook.  
+The goal was to understand how continuous integration (CI) works — from pushing code on GitHub to having Jenkins automatically build and test it.
+
 
 ## Steps Completed:
 - Created Spring Boot project using Maven
