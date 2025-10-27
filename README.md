@@ -20,3 +20,7 @@ The goal was to understand how continuous integration (CI) works — from pushin
 
 ## Trigger Test
 Each time a commit is pushed to GitHub, Jenkins automatically builds and tests the project.
+
+Submitted by: 
+Sweta Parekh  
+Midterm Project — Spring Boot + Jenkins Integration
